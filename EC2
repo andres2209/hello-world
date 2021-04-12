@@ -1,5 +1,17 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[5]:
+
+
 import pandas as pd
 import numpy as np 
+import altair as alt
+
+
+# In[4]:
+
 
 nombre = "Andrés"
 print("Hola, ya terminé el EC2. Saludos. " + nombre)
+
